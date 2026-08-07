@@ -7,5 +7,3 @@ input = Image.open("mercedes.jpg")
 output = remove(input)
 
 output.save("output.png")
-
-# terminala === python main.py === press enter
